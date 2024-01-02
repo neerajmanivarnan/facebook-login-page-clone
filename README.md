@@ -9,6 +9,6 @@ This project is a clone of the Facebook login page, created for learning and pra
 - CSS
 
 ```bash
-git clone https://github.com/neerajmanivarnan/facebook-login-clone.git
-cd facebook-login-clone
-# Additional setup steps if any
+git clone https://github.com/neerajmanivarnan/facebook-login-page-clone.git
+cd facebook-login-page-clone
+
